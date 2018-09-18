@@ -2,10 +2,10 @@
 
 To access the code, use any of the following methods:
 
-To Clone (with HTTPS)
+To Clone (with HTTPS): 
 $ git clone https://github.com/jbgreve/ObjectRocket.git
 
-To Clone (with SSH) 
+To Clone (with SSH): 
 $ git clone git@github.com:jbgreve/ObjectRocket.git
 
 OR Download (via web browser) at:
